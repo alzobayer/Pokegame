@@ -1,0 +1,21 @@
+@import 'bootstrap/scss/functions';
+@import 'bootstrap/scss/variables';
+
+$theme-colors: (
+  'primary': $primary,
+  'secondary': $secondary,
+  'success': #7ed6a4,
+  'info': $info,
+  'warning': $warning,
+  'danger': $danger,
+  'light': $light,
+  'dark': $dark,
+  'footer': #2a75bb,
+  'primary-page': #ffcb05,
+  'secondary-page': #5bc0eb,
+  'background': #ffe8cc,
+  'result-bg': #dff6ff,
+  'accent': #ff90c2,
+);
+
+@import 'bootstrap/scss/bootstrap';

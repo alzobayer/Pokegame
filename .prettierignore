@@ -1,0 +1,14 @@
+# build and dependency
+node_modules/
+dist/
+dist-ssr/
+.vite/
+coverage/
+
+# env
+.env
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
