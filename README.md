@@ -67,8 +67,8 @@
 ### ⚙️ Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/Benjamininfo/Pokegame
+cd ./Pokegame
 npm install
 npm run dev
 ```
@@ -118,8 +118,8 @@ Este proyecto está licenciado bajo la licencia MIT.
 ### Installation
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/Benjamininfo/Pokegame
+cd ./Pokegame
 npm install
 npm run dev
 ```
