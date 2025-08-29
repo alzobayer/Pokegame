@@ -6,6 +6,14 @@ This file tracks important changes for each version of the **Who's That Pokémon
 
 ---
 
+## [1.0.1] - 2025-08-28
+
+### 🛠️ Cambios menores / Minor Changes
+
+- Agregada página personalizada **404 Not Found** para rutas no definidas. / Added custom **404 Not Found** page for undefined routes.
+
+---
+
 ## [1.0.0] - 2025-08-27
 
 ### 🚀 Agregado / Added

@@ -5,12 +5,17 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![License](https://img.shields.io/github/license/Benjamininfo/Pokegame)](./LICENSE)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/47b8910f-05c9-427f-bb41-a0d45fc3936d/deploy-status)](https://app.netlify.com/projects/pokemon-game-bf/deploys)
 ---
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExano5cWQyaW96djl5aWUxbXc3bTVnOXpwMHcxN3JqdXh5YWI1YW9ibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DRfu7BT8ZK1uo/giphy.gif" alt="Gameplay demo" width="500" />
 </div>
+
+### 🌐 Demo en línea / Live Demo
+
+- **Versión en producción:**
+  [PokemonGameBf.netlify.app](https://pokemon-game-bf.netlify.app/)
 
 ---
 
@@ -110,9 +115,7 @@ Este proyecto está licenciado bajo la licencia MIT.
 ### 🚀 Usage
 
 - Choose a generation and number of rounds.
-
 - Guess the Pokémon by its silhouette.
-
 - Check your score at the end of the game.
 
 <a name="Technologies"></a>

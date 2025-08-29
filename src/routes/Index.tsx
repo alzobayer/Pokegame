@@ -4,6 +4,7 @@ import PokemonProvider from '../context/PokemonProvider';
 import PublicLayout from '../layout/PublicLayout';
 import HomePage from '../pages/HomePage';
 import LoadingDetailPage from '../pages/LoadingDetailPage';
+import NotFoundPage from '../pages/NotFoundPage';
 import PokeGamePage from '../pages/PokemonGame/PokeGamePage';
 import Test from '../pages/Test';
 
@@ -17,6 +18,7 @@ const Index = () => {
           <Route element={<PublicLayout />}>
             <Route index element={<HomePage />} />
             <Route path="Game" element={<PokeGamePage />} />
+            <Route path="*" element={<NotFoundPage />} />
           </Route>
         </Routes>
       </PokemonProvider>
