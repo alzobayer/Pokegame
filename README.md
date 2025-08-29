@@ -4,7 +4,7 @@
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![License](https://img.shields.io/github/license/tu-usuario/nombre-del-repo)](./LICENSE)
+[![License](https://img.shields.io/github/license/Benjamininfo/Pokegame)](./LICENSE)
 
 ---
 
@@ -36,10 +36,12 @@
 
 ---
 
+<a name="descripción"></a>
 ## 📖 Descripción (Español)
 
 **¿Quién es ese Pokémon?** es un juego web basado en la clásica mecánica de adivinar al Pokémon oculto. Utiliza la PokéAPI para obtener datos reales y desafiar a los jugadores a identificar Pokémon por su silueta.
 
+<a name="Características"></a>
 ### ✨ Características
 
 - Siluetas de Pokémon ocultas
@@ -48,22 +50,23 @@
 - Interfaz amigable y responsiva
 - Integración con la PokéAPI
 
+<a name="Uso"></a>
 ### 🚀 Uso
 
 - Elige una generación y cantidad de rondas.
-
 - Adivina el Pokémon por su silueta.
-
 - Revisa tu puntuación al final del juego.
 
+<a name="Tecnologías"></a>
 ### 🛠️ Tecnologías
 
-- React
-- Vite
-- TypeScript
-- Bootstrap 5
-- PokéAPI
+- [React]("https://es.react.dev/")
+- [Vite]("https://vite.dev/")
+- [TypeScript]("https://www.typescriptlang.org/")
+- [Bootstrap 5]("https://getbootstrap.com/")
+- [PokéAPI]("https://pokeapi.co/")
 
+<a name="Instalación"></a>
 ### ⚙️ Instalación
 
 ```bash
@@ -73,6 +76,7 @@ npm install
 npm run dev
 ```
 
+<a name="Créditos"></a>
 ### 👤 Créditos
 
 - Desarrollado por Benjamín Fuentes.
@@ -81,16 +85,19 @@ npm run dev
   - Canal oficial: [https://www.youtube.com/@bluuweb](https://www.youtube.com/@bluuweb)
   - Sitio web: [https://bluuweb.dev](https://bluuweb.dev)
 
+<a name="Licencia"></a>
 ### 📄 Licencia
 
 Este proyecto está licenciado bajo la licencia MIT.
 
 ---
 
+<a name="Description"></a>
 ## 📖 Description (English)
 
 **Who's That Pokémon?** is a web-based game inspired by the classic guessing challenge from the Pokémon series. It uses the PokéAPI to retrieve real Pokémon data and challenge players to identify them by their silhouettes.
 
+<a name="Features"></a>
 ### ✨ Features
 
 - Hidden Pokémon silhouettes
@@ -99,6 +106,7 @@ Este proyecto está licenciado bajo la licencia MIT.
 - Friendly and responsive interface
 - PokéAPI integration
 
+<a name="Usage"></a>
 ### 🚀 Usage
 
 - Choose a generation and number of rounds.
@@ -107,14 +115,16 @@ Este proyecto está licenciado bajo la licencia MIT.
 
 - Check your score at the end of the game.
 
+<a name="Technologies"></a>
 🛠️ Technologies
 
-- React
-- Vite
-- TypeScript
-- Bootstrap 5
-- PokéAPI
+- [React]("https://es.react.dev/")
+- [Vite]("https://vite.dev/")
+- [TypeScript]("https://www.typescriptlang.org/")
+- [Bootstrap 5]("https://getbootstrap.com/")
+- [PokéAPI]("https://pokeapi.co/")
 
+<a name="Installation"></a>
 ### Installation
 
 ```bash
@@ -123,7 +133,7 @@ cd ./Pokegame
 npm install
 npm run dev
 ```
-
+<a name="Credits"></a>
 ### 👤 Credits
 
 - Developed by Benjamín Fuentes.
@@ -132,6 +142,7 @@ npm run dev
   - YouTube channel: [https://www.youtube.com/@bluuweb](https://www.youtube.com/@bluuweb)
   - Website: [https://bluuweb.dev](https://bluuweb.dev)
 
+<a name="License"></a>
 ### 📄 License
 
 - This project is licensed under the MIT License.
